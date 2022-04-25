@@ -9,4 +9,6 @@
     for (let i = 0; i < length; i++) {
         sum = sum - nums[i];
       }
+
+      return sum;
   };
