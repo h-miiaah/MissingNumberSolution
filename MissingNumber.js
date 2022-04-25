@@ -3,5 +3,5 @@
  * @return {number}
  */
  var missingNumber = function(nums) {
-    
+    const length = nums.length;
   };
