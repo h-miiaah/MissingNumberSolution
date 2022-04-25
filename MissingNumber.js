@@ -14,5 +14,6 @@
   };
 
   /**
+   * First calculate the sum of all the numbers from 1 to n.
    * 
    */
